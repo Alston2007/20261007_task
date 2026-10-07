@@ -7,7 +7,7 @@
 
 
 
-![Cat Oiiaoiia](./cat-oiiaoiia-cat.gif)
+![Cat Oiiaoiia](cat-oiiaoiia-cat.gif)
 
 
 
