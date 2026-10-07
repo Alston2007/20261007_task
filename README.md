@@ -9,5 +9,6 @@
 
 ![Cat Oiiaoiia](cat-oiiaoiia-cat.gif)
 
+以防你認為gif不算照片
 
-
+![小陳](小陳.jpg)
